@@ -58,7 +58,9 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\Scripts\LvlSel3.cs" />
+    <Compile Include="Assets\Scripts\ErasePlayerPrefs.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
+    <Compile Include="Assets\Scripts\BossController.cs" />
     <Compile Include="Assets\Scripts\CursorScript.cs" />
     <Compile Include="Assets\Scripts\Graves2.cs" />
     <Compile Include="Assets\Scripts\PlayerPrefsScript.cs" />
@@ -113,7 +115,6 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\Scripts\LvlSel1.cs" />
     <Compile Include="Assets\Scripts\DontDestroy.cs" />
-    <Compile Include="Assets\Scripts\BossController.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
